@@ -1,0 +1,12 @@
+.navbar-item img {
+    max-height: 6rem
+}
+
+.icono-redondeado  img {
+    border: 1px  grey solid;
+    border-radius: 100px;
+}
+
+.c100 {
+    height: 15rem;
+}
